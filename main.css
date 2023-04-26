@@ -126,3 +126,21 @@ nav .bi{
     text-align-last: left;
     font-size: 17px;
 }
+@media screen and (max-width: 600px){
+    .tekst
+    {
+    font-size: 15px;
+    margin-right:40px;
+    margin-left:40px;
+    font-style: italic;
+}
+.sub-header h1{
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+    .eden{
+        font-size: 15px;
+    }    
+    
+}
