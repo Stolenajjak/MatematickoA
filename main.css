@@ -8,14 +8,13 @@
     font-style: italic;
 }
 .nazana{
-    background-image: url(screenshots/nazana.jpg);
+    background-color:skyblue;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
 }
 .eden{
-    column-count: 4;
-    column-span:all;
+   text-align: center;
     
 
 }
@@ -28,7 +27,7 @@
 }
 
 .sub-header{
-    background-color:lightgoldenrodyellow;
+    background-color:lightblue;
     width: 100%;
     background-position: center;
     background-size: cover;
@@ -118,7 +117,7 @@ nav img{
 
 nav .bi{
     display: none;
-   background-image:url(screenshots/nazana.jpg);
+   background-color: aquamarine;
 }
 .profesii{
     text-align-last: left;
